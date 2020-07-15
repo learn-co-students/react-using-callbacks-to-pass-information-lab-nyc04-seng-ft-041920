@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from './node_modules/react';
 import learnSymbol from './data.js'
 import Cell from './Cell.js'
 import ColorSelector from './ColorSelector.js'
